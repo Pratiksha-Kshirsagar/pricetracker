@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Product</title>
+    <link th:href="@{/assets/css/productPage.css}" rel="stylesheet">
+    <th:block th:insert="fragments/commonHead :: copy"/>
+</head>
+<body>
+<th:block th:insert="fragments/header :: copy"/>
+<main>
+    <form>
+        <div>
+            <img th:alt="${product.name + ' photo'}" class="product-photo" th:src="${product.image}">
+        </div>
+        <h1 class="title">Description</h1>
+        <div class="description product-main">
+            <div>
+                <p><b>Name: </b><span th:text="${product.name}"></span></p>
+            </div>
+            <div>
+                <p><b>Model: </b><span th:text="${product.model}"></span></p>
+            </div>
+            <div th:if="${product.manufacturer.name != null}">
+                <p><b>Manufacturer: </b><span th:text="${product.manufacturer.name}"></span></p>
+            </div>
+            <div th:if="${product.year != null}">
+                <p><b>Year: </b><span th:text="${product.year}"></span></p>
+            </div>
+            <div>
+                <p><b>Type: </b><span th:text="${product.productType.name}"></span></p>
+            </div>
+            <div th:if="${!propertiesMap.isEmpty()}">
+                <p><b>Properties: </b></p>
+                <p th:each="property : ${propertiesMap}">
+                    <span class="first-line-indent" th:text="${property.key + ': ' + property.value}"><br></span>
+                </p>
+            </div>
+            <div>
+                <div id="section-price">
+                    <p>Price history:</p>
+                    <th:block th:each="price : ${prices}">
+                        <p>
+                            <span th:text="${price.price + ' INR on ' + price.date}"></span>
+                            <a th:href="@{${price.store.url}}"><span th:text="${'' + price.store.name}"></span></a>
+                        </p>
+                    </th:block>
+                </div>
+            </div>
+        </div>
+    </form>
+</main>
+<th:block th:insert="fragments/footer :: copy"/>
+</body>
+</html>

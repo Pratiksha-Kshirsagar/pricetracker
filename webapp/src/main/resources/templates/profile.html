@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Profile</title>
+    <link th:href="@{/assets/css/profile.css}" rel="stylesheet">
+    <th:block th:insert="fragments/commonHead :: copy"/>
+</head>
+<body>
+<th:block th:insert="fragments/header :: copy"/>
+<main>
+    <div>
+        <div>
+            <div>
+                <img alt="Profile photo"
+                     class="profile-photo"
+                     src="https://cdn.shopify.com/s/files/1/1061/1924/files/Smliing_Emoji_Icon.png?13752525173949329807">
+            </div>
+            <form action="" class="upload-form" enctype="multipart/form-data" method="post">
+                Select image to upload:
+                <input class="profileUploadChoose" id="fileToUpload" name="fileToUpload" type="file">
+                <input class="upload-button-picture" name="submit" type="submit" value="Upload Image">
+            </form>
+        </div>
+        <div>
+            <form th:action="@{/updateUserInfo}" class="profile-form" method="post" th:object="${user}">
+                <h1>Profile</h1>
+                <div>
+                    <div class="field">
+                        <label>First name</label>
+                        <input name="firstName" th:field="*{firstName}" th:value="*{firstName}" required type="text"
+                               value="first_name">
+                    </div>
+                    <div class="field">
+                        <label>Last name</label>
+                        <input name="lastName" th:field="*{lastName}" th:value="*{lastName}" required type="text"
+                               value="last_name">
+                    </div>
+                    <div class="field">
+                        <label>E-mail </label>
+                        <input id="email" name="email" readonly th:field="*{email}" th:value="*{email}" required
+                               type="text" value="email">
+                    </div>
+                    <div class="field">
+                        <label>Password</label>
+                        <input id="password" th:field="*{password}" name="password" type="password">
+                    </div>
+                    <div class="field">
+                        <button class="upload-button-picture" type="submit">Save</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="vl"></div>
+    <form>
+        <h1 class="title">Wish list</h1>
+        <div class="wish wish-main">
+            <th:block th:each="wishProduct : ${wishList}">
+<!--                <a th:href="@{'/product/' + ${wishProduct.product.id}}"><p th:text="${wishProduct.product.name}"></p></a>-->
+                <p th:text="${wishProduct.product.name}"> <a th:href="@{'/product/' + ${wishProduct.product.id}}"></a></p>
+            </th:block>
+        </div>
+    </form>
+</main>
+<th:block th:insert="fragments/footer :: copy"/>
+</body>
+</html>

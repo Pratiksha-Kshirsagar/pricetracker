@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Price Tracker</title>
+    <link th:href="@{/assets/css/index.css}" rel="stylesheet">
+    <th:block th:insert="fragments/commonHead :: copy"/>
+</head>
+<body>
+<th:block th:insert="fragments/header :: copy"/>
+<main class="index-main">
+    <div>
+        <img src="./assets/img/slider.webp" class="image-container">
+    </div>
+   
+    <div class="grid-container">
+        <div class="first-row-product-category">
+            <a th:href="@{/products/smartphone}" id="smartphone" class="btn product-type-btn product-type-btn-text">Smartphone</a>
+            <a th:href="@{/products/laptop}" id="laptop" class="btn product-type-btn product-type-btn-text">Laptop</a>
+            <a th:href="@{/products/tablet}" id="tablet" class="btn product-type-btn product-type-btn-text">Tablet</a>
+            <a th:href="@{/products/smartwatch}" id="smartwatch" class="btn product-type-btn product-type-btn-text">Smart Watch</a>
+        </div>
+        
+            
+           
+      
+    </div>
+</main>
+<th:block th:insert="fragments/footer :: copy"/>
+</body>
+</html>
