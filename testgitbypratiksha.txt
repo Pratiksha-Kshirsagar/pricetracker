@@ -1,0 +1,206 @@
+ webapp
+index.html 23 line no
+
+ class="second-row-product-category">
+
+<a th:href="@{/products/all-in-one}" id="all-in-one" class="btn product-type-btn product-type-btn-text">All-in-one</a>
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="APPLE iPhone 11 (White, 128 GB)" src="https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="LG Gram Core i5 12th Gen - (8 GB/512 GB SSD/Windows 11 Home) 14Z90Q Thin and Light Laptop" src="https://rukminim1.flixcart.com/image/416/416/xif0q/computer/q/a/z/lg-gram-14z90q-g-aj56a2-thin-and-light-laptop-lg-gram-original-imagh89bshvjdpag.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/xif0q/computer/q/a/z/lg-gram-14z90q-g-aj56a2-thin-and-light-laptop-lg-gram-original-imagh89bshvjdpag.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/xif0q/computer/q/a/z/lg-gram-14z90q-g-aj56a2-thin-and-light-laptop-lg-gram-original-imagh89bshvjdpag.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="SAMSUNG Galaxy Tab A8 3 GB RAM 32 GB ROM 10.5 inch with Wi-Fi Only Tablet (Gray)" src="https://rukminim1.flixcart.com/image/416/416/ky7lci80/tablet/e/d/m/sm-x205nzaeinu-samsung-original-imagahrshg78gwvb.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/ky7lci80/tablet/e/d/m/sm-x205nzaeinu-samsung-original-imagahrshg78gwvb.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/ky7lci80/tablet/e/d/m/sm-x205nzaeinu-samsung-original-imagahrshg78gwvb.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="boAt Storm Pro with 1.78&quot; AMOLED Display, 700+ Active Modes Smartwatch" src="https://rukminim1.flixcart.com/image/416/416/l572ufk0/smartwatch/z/2/q/-original-imagfxk6ghfbjqm4.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/l572ufk0/smartwatch/z/2/q/-original-imagfxk6ghfbjqm4.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/l572ufk0/smartwatch/z/2/q/-original-imagfxk6ghfbjqm4.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="APPLE iPhone 14 (Blue, 128 GB)" src="https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="APPLE iPhone 11 (Black, 128 GB)" src="https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/x/j/s/iphone-11-128-d-mwm02hn-a-apple-0-original-imafkg242ugz8hwc.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/k2jbyq80pkrrdj/mobile-refurbished/x/j/s/iphone-11-128-d-mwm02hn-a-apple-0-original-imafkg242ugz8hwc.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/x/j/s/iphone-11-128-d-mwm02hn-a-apple-0-original-imafkg242ugz8hwc.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="SAMSUNG Galaxy F23 5G (Copper Blush, 128 GB)" src="https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/f/c/v/-original-imagehzbaw2wugme.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/f/c/v/-original-imagehzbaw2wugme.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/f/c/v/-original-imagehzbaw2wugme.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="Xiaomi 11i Hypercharge 5G (Purple Mist, 128 GB)" src="https://rukminim1.flixcart.com/image/416/416/ky7lci80/mobile/k/b/g/-original-imagagf6fzbhuhny.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/ky7lci80/mobile/k/b/g/-original-imagagf6fzbhuhny.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/ky7lci80/mobile/k/b/g/-original-imagagf6fzbhuhny.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="realme GT 2 (Paper Green, 128 GB)" src="https://rukminim1.flixcart.com/image/416/416/l3rmzrk0/mobile/z/k/s/-original-imagetme4yjzzvp6.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/l3rmzrk0/mobile/z/k/s/-original-imagetme4yjzzvp6.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/l3rmzrk0/mobile/z/k/s/-original-imagetme4yjzzvp6.jpeg?q=70 1x">
+
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="ASUS Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) X1500EA-EJ701WS Business Laptop" src="https://rukminim1.flixcart.com/image/416/416/xif0q/computer/g/y/8/x1500ea-ej701ws-business-laptop-asus-original-imagkftffdhmv2zv.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/xif0q/computer/g/y/8/x1500ea-ej701ws-business-laptop-asus-original-imagkftffdhmv2zv.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/xif0q/computer/g/y/8/x1500ea-ej701ws-business-laptop-asus-original-imagkftffdhmv2zv.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="Lenovo ThinkPad Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Pro/4 GB Graphics) P14s Business Laptop" src="https://rukminim1.flixcart.com/image/416/416/ktx9si80/computer/p/t/k/thinkpad-business-laptop-lenovo-original-imag75ug5ejhpqgp.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/ktx9si80/computer/p/t/k/thinkpad-business-laptop-lenovo-original-imag75ug5ejhpqgp.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/ktx9si80/computer/p/t/k/thinkpad-business-laptop-lenovo-original-imag75ug5ejhpqgp.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="DELL Latitude Core i5 10th Gen - (8 GB/512 GB SSD/Ubuntu) 3410 Business Laptop" src="https://rukminim1.flixcart.com/image/416/416/kg8avm80/computer/g/7/e/dell-latitude-3410-business-laptop-original-imafwg9zrgrwk9ns.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/kg8avm80/computer/g/7/e/dell-latitude-3410-business-laptop-original-imafwg9zrgrwk9ns.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/kg8avm80/computer/g/7/e/dell-latitude-3410-business-laptop-original-imafwg9zrgrwk9ns.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="HP Core i5 11th Gen - (8 GB/512 GB HDD/512 GB SSD/DOS) 240 G8 Business Laptop" src="https://rukminim1.flixcart.com/image/416/416/xif0q/computer/f/i/h/240-g8-business-laptop-hp-original-imaghmgfbzawywfy.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/xif0q/computer/f/i/h/240-g8-business-laptop-hp-original-imaghmgfbzawywfy.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/xif0q/computer/f/i/h/240-g8-business-laptop-hp-original-imaghmgfbzawywfy.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="DELL Core i5 11th Gen - (16 GB/512 GB SSD/Ubuntu) 3420 Business Laptop" src="https://rukminim1.flixcart.com/image/416/416/xif0q/computer/f/d/w/latitude-3420-business-laptop-dell-original-imagn6hrxsryasb6.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/xif0q/computer/f/d/w/latitude-3420-business-laptop-dell-original-imagn6hrxsryasb6.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/xif0q/computer/f/d/w/latitude-3420-business-laptop-dell-original-imagn6hrxsryasb6.jpeg?q=70 1x">
+
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="HP 430 G8 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Pro) ProBook 430 G8 Business Laptop" src="https://rukminim1.flixcart.com/image/416/416/kkoc70w0/computer/n/v/b/probook-430-g8-notebook-pc-business-laptop-hp-original-imafzyry26deagdp.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/kkoc70w0/computer/n/v/b/probook-430-g8-notebook-pc-business-laptop-hp-original-imafzyry26deagdp.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/kkoc70w0/computer/n/v/b/probook-430-g8-notebook-pc-business-laptop-hp-original-imafzyry26deagdp.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="MOTOROLA tab g70 LTE 6 GB RAM 128 GB ROM 11 inch with Wi-Fi+4G Tablet (Modernist Teal)" src="https://rukminim1.flixcart.com/image/416/416/kyag87k0/tablet/4/n/o/g70-lte-moto-original-imagak3huz7jweyz.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/kyag87k0/tablet/4/n/o/g70-lte-moto-original-imagak3huz7jweyz.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/kyag87k0/tablet/4/n/o/g70-lte-moto-original-imagak3huz7jweyz.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="REDMI Pad 4 GB RAM 128 GB ROM 10.61 Inch with Wi-Fi Only Tablet (Graphite Gray)" src="https://rukminim1.flixcart.com/image/416/416/xif0q/tablet/d/d/n/-original-imaggp4gtdze4hfd.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/xif0q/tablet/d/d/n/-original-imaggp4gtdze4hfd.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/xif0q/tablet/d/d/n/-original-imaggp4gtdze4hfd.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="realme Pad 6 GB RAM 128 GB ROM 10.4 inch with Wi-Fi+4G Tablet (Gold)" src="https://rukminim1.flixcart.com/image/416/416/kt1u3rk0/tablet/t/j/t/rmp2103-realme-original-imag6h83yvtku7ec.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/kt1u3rk0/tablet/t/j/t/rmp2103-realme-original-imag6h83yvtku7ec.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/kt1u3rk0/tablet/t/j/t/rmp2103-realme-original-imag6h83yvtku7ec.jpeg?q=70 1x">
+
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="Lenovo Tab P11 4 GB RAM 128 GB ROM 11.0 inches with Wi-Fi+4G Tablet (Platinum Grey)" src="https://rukminim1.flixcart.com/image/416/416/xif0q/tablet/e/6/c/-original-imagg65ujfumwhdk.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/xif0q/tablet/e/6/c/-original-imagg65ujfumwhdk.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/xif0q/tablet/e/6/c/-original-imagg65ujfumwhdk.jpeg?q=70 1x">
+
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="APPLE iPad (9th Gen) 64 GB ROM 10.2 inch with Wi-Fi Only (Space Grey)" src="https://rukminim1.flixcart.com/image/416/416/ktop5e80/tablet/x/9/o/mk2k3hn-a-apple-original-imag6yy7xjjugz4w.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/ktop5e80/tablet/x/9/o/mk2k3hn-a-apple-original-imag6yy7xjjugz4w.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/ktop5e80/tablet/x/9/o/mk2k3hn-a-apple-original-imag6yy7xjjugz4w.jpeg?q=70 1x">
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="APPLE Watch Series 3 (GPS, 42mm) - Silver Aluminium Case with White Sport Band" src="https://rukminim1.flixcart.com/image/416/416/jmi22kw0/smartwatch/e/x/r/mtf22hn-a-apple-original-imaf9ec8fsyhen73.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/jmi22kw0/smartwatch/e/x/r/mtf22hn-a-apple-original-imaf9ec8fsyhen73.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/jmi22kw0/smartwatch/e/x/r/mtf22hn-a-apple-original-imaf9ec8fsyhen73.jpeg?q=70 1x">
+
+
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="huami GTS 2 1.65-inch HD AMOLED, Bluetooth Phone Calls,SpO2, Stress,Heart Rate &amp; Sleep Smartwatch" src="https://rukminim1.flixcart.com/image/416/416/kmds4nk0/smartwatch/d/l/w/a1969-android-ios-huami-original-imagfasbe5qcvpfg.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/kmds4nk0/smartwatch/d/l/w/a1969-android-ios-huami-original-imagfasbe5qcvpfg.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/kmds4nk0/smartwatch/d/l/w/a1969-android-ios-huami-original-imagfasbe5qcvpfg.jpeg?q=70 1x">
+
+
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="FITBIT Versa 2 Smartwatch" src="https://rukminim1.flixcart.com/image/416/416/kapoo7k0/smartwatch/4/v/e/fb507bkbk-android-ios-fitbit-original-imafs7uycjffryca.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/kapoo7k0/smartwatch/4/v/e/fb507bkbk-android-ios-fitbit-original-imafs7uycjffryca.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/kapoo7k0/smartwatch/4/v/e/fb507bkbk-android-ios-fitbit-original-imafs7uycjffryca.jpeg?q=70 1x">
+
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="FOSSIL Gen 5E Smartwatch" src="https://rukminim1.flixcart.com/image/416/416/kklhbbk0/smartwatch/t/s/4/ftw4047-android-ios-fossil-original-imafzwcsx3arxnzz.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/kklhbbk0/smartwatch/t/s/4/ftw4047-android-ios-fossil-original-imafzwcsx3arxnzz.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/kklhbbk0/smartwatch/t/s/4/ftw4047-android-ios-fossil-original-imafzwcsx3arxnzz.jpeg?q=70 1x">
+
+
+<th:block th:insert="fragments/sortDropdown :: sort-dropdown"/>
+</th:block>  PRODUCTLIST 4041
+
+
+
+/*SORT SELECT*/
+.sort-select {
+    position: relative;
+    width: 205px;
+    transform: translate(600%, 0);
+    bottom: 60px;
+    z-index: 1;
+}
+
+.sort-select select {
+    display: none; /*hide original SELECT element:*/
+}
+
+.select-selected {
+    border-radius: 8px;
+    background-color: var(--main-color);
+}
+
+/*style the arrow inside the select element:*/
+.select-selected:after {
+    position: absolute;
+    content: "";
+    top: 14px;
+    right: 10px;
+    width: 0;
+    height: 0;
+    border: 6px solid transparent;
+    border-color: #fff transparent transparent transparent;
+}
+
+/*point the arrow upwards when the select box is open (active):*/
+.select-selected.select-arrow-active:after {
+    border-color: transparent transparent #fff transparent;
+    top: 7px;
+}
+
+/*style the items (options), including the selected item:*/
+.select-items div, .select-selected {
+    color: #ffffff;
+    padding: 8px 16px;
+    border: 1px solid transparent;
+    border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+    cursor: pointer;
+    user-select: none;
+}
+
+/*style items (options):*/
+.select-items {
+    border-radius: 4px;
+    position: absolute;
+    background-color: var(--main-color);
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 99;
+}
+
+/*hide the items when the select box is closed:*/
+.select-hide {
+    display: none;
+}
+
+.select-items div:hover, .same-as-selected {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.not-clickable {
+    pointer-events: none;
+}
+
+
+
+
+
+
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="SAMSUNG Watch 4, 44mmSuper AMOLED bluetooth calling function &amp; body composition tracking" src="https://rukminim1.flixcart.com/image/416/416/l26hdow0/smartwatch/j/r/o/1-4-sm-r870nzkainu-android-samsung-yes-original-imagdhf2ahk7nvmf.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/l26hdow0/smartwatch/j/r/o/1-4-sm-r870nzkainu-android-samsung-yes-original-imagdhf2ahk7nvmf.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/l26hdow0/smartwatch/j/r/o/1-4-sm-r870nzkainu-android-samsung-yes-original-imagdhf2ahk7nvmf.jpeg?q=70 1x">
+
+
+<div>Name downward</div>
+
+<img loading="eager" class="_396cs4 _2amPTt _3qGmMb" alt="REDMI 10A SPORT (CHARCOAL BLACK, 128 GB)" src="https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/p/u/m/-original-imaggz3mbxhyesnc.jpeg?q=70" srcset="https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/p/u/m/-original-imaggz3mbxhyesnc.jpeg?q=70 2x, https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/p/u/m/-original-imaggz3mbxhyesnc.jpeg?q=70 1x">
+
+
+
+…or create a new repository on the command line
+echo "# price-tracker" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Pratiksha-Kshirsagar/price-tracker.git
+git push -u origin master
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/Pratiksha-Kshirsagar/price-tracker.git
+git branch -M master
+git push -u origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
